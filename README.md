@@ -35,3 +35,17 @@ This project is ideal for showcasing skills in data analysis, machine learning, 
 - **Scikit-learn** – for model building and evaluation
 - **Matplotlib** & **Seaborn** – for data visualization
 - **Jupyter Notebook** – for interactive coding and analysis
+
+## Dataset Description
+
+The dataset used in this project contains various attributes of California housing areas including:
+- **Median Income**
+- **Median House Value**
+- **Housing Median Age**
+- **Total Rooms**
+- **Total Bedrooms**
+- **Population**
+- **Households**
+- **Latitude and Longitude**
+
+This dataset is publicly available and is a popular benchmark for housing price prediction tasks.
