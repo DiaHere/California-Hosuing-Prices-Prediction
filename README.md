@@ -49,3 +49,11 @@ The dataset used in this project contains various attributes of California housi
 - **Latitude and Longitude**
 
 This dataset is publicly available and is a popular benchmark for housing price prediction tasks.
+
+## Installation and Setup
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/DiaHere/California-Hosuing-Prices-Prediction.git
+   cd California-Hosuing-Prices-Prediction
