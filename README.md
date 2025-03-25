@@ -57,3 +57,41 @@ This dataset is publicly available and is a popular benchmark for housing price 
    ```bash
    git clone https://github.com/DiaHere/California-Hosuing-Prices-Prediction.git
    cd California-Hosuing-Prices-Prediction
+   jupyter notebook
+   
+## Usage
+
+- **Exploratory Data Analysis:** Open the notebook EDA.ipynb to see how the data was visualized and preprocessed.
+
+- **Model Training:** Check out model_training.ipynb for code related to building, training, and evaluating different regression models.
+
+- **Results:** The notebooks include visualizations of model performance and key insights from the data analysis.
+
+Feel free to modify the code, experiment with different models, or add additional features to improve predictions.
+
+## Project Insights
+- Data Insights: Initial EDA revealed strong correlations between median income and house value. Other features, such as location, also played a significant role.
+
+- Model Performance: Ensemble methods, such as Random Forest, showed improved performance over simpler linear models.
+
+- Challenges: Handling missing values and ensuring the model generalizes well on unseen data were key challenges during the project.
+
+## Future Improvements
+1. Explore additional feature engineering techniques.
+
+2. Experiment with hyperparameter tuning to further boost model performance.
+
+3. Integrate cross-validation to ensure model robustness.
+
+4. Deploy the model as a web application using frameworks like Flask or Django.
+
+## Acknowledgments
+Thanks to the open data community for providing the California housing dataset.
+
+Inspired by several tutorials and articles on machine learning and data science.
+
+## License
+This project is licensed under the MIT License.
+
+---
+
