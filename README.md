@@ -2,7 +2,7 @@
 
 A machine learning project that predicts housing prices in California using historical data. This project demonstrates data cleaning, exploratory data analysis (EDA), feature engineering, model training, and evaluation using Python libraries.
 
-## Table-of-Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
@@ -57,6 +57,9 @@ This dataset is publicly available and is a popular benchmark for housing price 
    ```bash
    git clone https://github.com/DiaHere/California-Hosuing-Prices-Prediction.git
    cd California-Hosuing-Prices-Prediction
+
+2. **Lunch Jupyter Notebook:**
+   ```bash
    jupyter notebook
    
 ## Usage
