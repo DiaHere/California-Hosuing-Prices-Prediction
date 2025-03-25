@@ -38,17 +38,18 @@ This project is ideal for showcasing skills in data analysis, machine learning, 
 
 ## Dataset Description
 
-The dataset used in this project contains various attributes of California housing areas including:
-- **Median Income**
-- **Median House Value**
-- **Housing Median Age**
-- **Total Rooms**
-- **Total Bedrooms**
-- **Population**
-- **Households**
-- **Latitude and Longitude**
+The dataset used in this project is sourced from Kaggle and is titled [California Housing Prices](https://www.kaggle.com/datasets/camnugent/california-housing-prices). It contains various attributes for different housing areas in California, including:
 
-This dataset is publicly available and is a popular benchmark for housing price prediction tasks.
+- **Median Income:** Average income of residents in the area.
+- **Median House Value:** The target variable representing the median house price.
+- **Housing Median Age:** The median age of the houses in the area.
+- **Total Rooms:** The total number of rooms across all houses.
+- **Total Bedrooms:** The total number of bedrooms across all houses.
+- **Population:** The total population in the area.
+- **Households:** The number of households.
+- **Latitude and Longitude:** Geographic coordinates to help analyze location-based trends.
+
+This dataset is widely used as a benchmark for housing price prediction tasks and provides a rich foundation for data cleaning, exploratory data analysis (EDA), feature engineering, and building predictive models.
 
 ## Installation and Setup
 
